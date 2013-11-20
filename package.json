@@ -1,0 +1,14 @@
+{
+	"name"     : "localizechecker",
+    "description" : "check if all the strings are localized",
+	"version"  : "0.0.1",
+	"author"   : "RAJESH SEGU",
+	"dependencies": {
+		"walk":"*",
+        "request": "*",
+        "requirejs": "*",
+        "async": "*",
+        "jsdom": "*",
+        "text":"*"
+	}    
+}
